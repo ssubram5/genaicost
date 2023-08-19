@@ -1,0 +1,7 @@
+{
+    "CHATGPT_MODEL_NAME":"test-gpt-35-turbo",
+    "OPENAI_API_KEY":"6372cb0335cc4ab6b617217068913448",
+    "OPENAI_API_BASE":"https://openaitestxops.openai.azure.com",
+    "OPENAI_API_VERSION":"2022-12-01",
+    "OPENAI_GPT_TYPE":"gpt-35-turbo"
+}
